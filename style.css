@@ -1,0 +1,168 @@
+body{
+    font-family:'Poppins', sans-serif;
+    margin: 0%;
+   
+}
+
+h1{
+    
+    font-size: 70px;
+    
+}
+
+h2{
+
+    font-family: 'Secular One', sans-serif;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+h3{
+
+    font-family: 'Secular One', sans-serif;
+    font-size: 40px;
+    line-height: 15px;
+    
+
+}
+
+p{
+    margin-top: 50px;
+    margin-bottom: 35px;
+    font-size: 20px;
+}
+
+.first-line{
+    font-family: 'Playfair Display', serif;
+    line-height: 60px;
+    letter-spacing: 3px;
+
+}
+
+.msn-color{
+    color: orangered;
+}
+
+.top-container{
+    padding-top: 100px;
+}
+
+#first-pera{
+    border-left: 5px solid red;
+    padding-left: 15px;
+    border-radius: 5px;
+    margin-left: 8%;
+    
+    
+}   
+
+.flexible-container{
+    display: flex;
+}
+
+.para-width{
+    width: 50%;
+    padding-top: 5%;
+    padding-right: 500px;
+    padding-left: 8%
+}
+
+.img-width{
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 10%;
+    
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple, rgb(66, 65, 65));
+    color:whitesmoke;
+    font-weight:500;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: auto;
+}
+
+.box-item-1{
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 0px solid;
+    border-radius: 20px;
+    background: lightpink;
+    
+}
+
+.box-item-2{
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 0px solid;
+    border-radius: 20px;
+    background: skyblue;
+}
+
+.box-item-3{
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 0px solid;
+    border-radius: 20px;
+    background: lightgreen;
+}
+
+.lite-color{
+    color: orangered;
+}
+
+.second-banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 0px 170px;
+}
+
+.third-banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.fourth-banner{
+    padding-bottom: 7%;
+
+}
+
+.img-app{
+
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 20%;
+
+}
+
+.app-para-width{
+    width: 50%;
+    padding-top: 10%;
+    padding-right: 500px;
+    padding-left: 8%
+}
+
+.bottom-container{
+    background-color: black;
+    padding: 50px 0 20px;
+    text-align: center;
+  }
+
+.bottom-word{
+    color: lightsteelblue;
+}
